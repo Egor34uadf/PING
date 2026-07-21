@@ -5,7 +5,7 @@ from config import TOKEN as TINKOFF_TOKEN, COMPANIES
 import requests
 from datetime import datetime
 
-BOT_TOKEN = "8922841684:AAF3K87819sIUTugD8shFk7imE"
+BOT_TOKEN = "8922841684:AAF3K87819eDFYsUfvWsIUTugD8shFk7imE"
 MAX_SLOTS = 3
 
 headers = {
